@@ -9,10 +9,10 @@
       <h4><a href="https://github.com/molexxxx/pamoja">Pamoja</a></h4>
       <p>Modular, multi-language Rust SDK for offline-first IoT, robotics, and edge hardware.</p>
       <p>
-        <a href="https://crates.io/users/molexxxx"><img height="26" alt="crates.io" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-crates.svg"></a>
+        <a href="https://crates.io/users/tonywied17"><img height="26" alt="crates.io" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-crates.svg"></a>
         &nbsp;<a href="https://www.npmjs.com/org/pamoja"><img height="26" alt="npm" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-npm.svg"></a>
-        &nbsp;<a href="https://pypi.org/user/molexxxx/"><img height="26" alt="PyPI" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-pypi.svg"></a>
-        &nbsp;<a href="https://www.nuget.org/profiles/molexxxx"><img height="26" alt="NuGet" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-nuget.svg"></a>
+        &nbsp;<a href="https://pypi.org/user/tonywied17/"><img height="26" alt="PyPI" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-pypi.svg"></a>
+        &nbsp;<a href="https://www.nuget.org/profiles/tonywied17"><img height="26" alt="NuGet" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-nuget.svg"></a>
         &nbsp;<a href="https://github.com/molexxxx/pamoja/blob/main/LICENSE-MIT"><img height="26" alt="MIT license" src="https://raw.githubusercontent.com/molexxxx/pamoja/main/.github/badges/btn-license.svg"></a>
       </p>
     </td>
